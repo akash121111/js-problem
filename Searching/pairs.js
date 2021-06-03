@@ -13,3 +13,5 @@ function pairs(k, arr) {
 	}
 	console.log(count);
 }
+
+pairs(2, [ 1, 2, 3, 4, 5 ]);
