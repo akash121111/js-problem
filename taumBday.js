@@ -1,5 +1,6 @@
 function taumBday(b, w, bc, wc, z) {
 	// Write your code here
+	// not fully testcases passes
 
 	if (bc > wc + z) {
 		bc = wc + z;
